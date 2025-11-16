@@ -1,0 +1,23 @@
+# Handwritten Text to Digital Text Converter - Requirements
+
+# Core GUI and Image Processing
+# tkinter comes with Python, no need to install separately
+Pillow>=9.0.0
+opencv-python>=4.7.0
+numpy>=1.21.0
+
+# OCR Engine
+pytesseract>=0.3.10
+
+# Additional image processing
+scipy>=1.9.0
+scikit-image>=0.19.0
+
+# Optional: Advanced ML models for better accuracy
+# tensorflow>=2.10.0  # Uncomment if you want to add deep learning models
+# torch>=1.12.0       # Uncomment for PyTorch-based models
+# torchvision>=0.13.0
+
+# Development and testing (optional)
+# pytest>=7.0.0
+# black>=22.0.0
