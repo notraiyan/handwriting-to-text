@@ -199,7 +199,6 @@ This project is open source and available under the MIT License.
 ## Author
 
 **Raiyan**  
-Date: November 16, 2025
 
 ---
 

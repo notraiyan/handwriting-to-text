@@ -191,5 +191,4 @@ By studying and using this application, you will understand:
 ---
 
 **Author**: Raiyan  
-**Date**: November 16, 2025  
 **Purpose**: Demonstrating practical application of machine learning techniques in computer vision and text recognition

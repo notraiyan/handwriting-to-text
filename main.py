@@ -4,7 +4,6 @@ A GUI application that converts handwritten text images to machine-readable text
 using computer vision and OCR techniques.
 
 Author: Raiyan
-Date: November 16, 2025
 """
 
 import tkinter as tk
@@ -874,7 +873,6 @@ def main():
             "• Confidence scoring\n"
             "• Multiple language support\n\n"
             "Author: Raiyan\n"
-            "Date: November 16, 2025"
         )
     )
     
